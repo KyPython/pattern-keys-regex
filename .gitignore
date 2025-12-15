@@ -77,3 +77,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.cursor/rules/snyk_rules.mdc
+
+# Creative development guide
+CREATIVE_GUIDE.md
